@@ -10,7 +10,7 @@
 	Timeline
 		Control where media starts
 		Layers
-			Whatever on tops will show.
+			Whatever on top will show.
 	Important Shortcuts - Hotkeys
 		V				-->		Standard Selection Tool
 		Spacebar		-->		Pan
@@ -24,11 +24,45 @@
 			If you want to create a shape; then press F2 to deselect everything.
 			Creating perfect square or circle:
 				Press Shift key.
-		G				-->		Pen Tool / Mask Tool
+		G				-->		Pen Tool / Mask Tool 
 		CTRL + T		-->		Text tool / Type Tool
+		
+		CTRL + ]		-->		Reorder Current Layer UP
+		CTRL + [		-->		Reorder Current Layer DOWN
+		
+		CTRL + D		-->		Duplicate Current Layer
+		CTRL + L		-->		Lock current layer
+		CTRL + NUM0		-->		Solo Layer					[custom hotkey]
+		U				-->		Collapse Selected Layer
+		A				-->		Anchor
+		P				-->		Position
+		R				-->		Rotation
+		S				-->		Scale
+		O				-->		Opacity
+		
 	Align Tool
 		To Composition
 		To Selection
+		
+	Work Area
+		
+	Layers:
+		Reorder Layers:
+			Shortcut:
+					CTRL + ]
+					CTRL + [
+		Solo		CTRL + NUM0
+		Lock		CTRL + L
+		Duplicate	CTRL + D
+		
+		Layer Transformation:
+			Shortcuts:
+		
+				Anchor		-->		A
+				Position	-->		P
+				Rotation	-->		R
+				Scale		-->		S
+				Opacity		-->		T
 		
 		
 		
