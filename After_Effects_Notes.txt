@@ -1,0 +1,65 @@
+1. Introduction
+2. After Effects Basics
+	Import Media
+		Right-Click --> Import
+		Drag & Drop
+	Folder Organization
+		Composition
+		Media
+		Sub-Folder
+	Timeline
+		Control where media starts
+		Layers
+			Whatever on tops will show.
+	Important Shortcuts - Hotkeys
+		V			-->		Standard Selection Tool
+		Spacebar	-->		Pan
+			Click Middle Mouse Wheel
+		Mouse Wheel	-->		Zoom in & out
+		W			-->		Rotation Tool
+		Y			-->		Pan benind tool
+			Move anchor point
+		Q			-->		Rectangle Tool / Shape Tool / Mask Tool
+			Masking requires you select the layer you want to mask.
+			If you want to create a shape; then press F2 to deselect everything.
+			Creating perfect square or circle:
+				Press Shift key.
+		G			-->		Pen Tool / Mask Tool
+		CTRL + T	-->		Text tool / Type Tool
+	Align Tool
+		To Composition
+		To Selection
+		
+		
+		
+		
+		
+	
+		
+3. Animating with Keyframes
+4. Shapes and Solid Layers
+5. Important After Effects Skills
+6. Motion Graphics Projects
+7. Flat Animation Challenge
+8. Green Screen (Chromakeying)
+9. 3D Animations and the Camera Tool
+10. Rotoscoping
+11. Screen Replacements
+12. Puppet Tool Animations
+13. Effects & Presets
+14. Motion Tracking
+15. Character Animations
+16. Exporting From After Effects
+17. After Effects Workflow + Tips
+18. Expressions
+19. Conclusion
+20. Bonus Tutorials
+21. Bonus Project House of Cards Intro Graphics
+22. Bonus Project Hipster Badge Animation
+23. Bonus Project Flat Animation Buildup
+24. Bonus Section Using After Effects Templates
+25. Bonus Section Advanced Shape Animations
+26. Bonus Projects After Effects for Entrepreneurs
+27. Bonus Section Kinetic Typography
+28. Course Bonuses
+
