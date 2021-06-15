@@ -12,20 +12,20 @@
 		Layers
 			Whatever on tops will show.
 	Important Shortcuts - Hotkeys
-		V			-->		Standard Selection Tool
-		Spacebar			-->		Pan
+		V				-->		Standard Selection Tool
+		Spacebar		-->		Pan
 			Click Middle Mouse Wheel
 		Mouse Wheel		-->		Zoom in & out
-		W			-->		Rotation Tool
-		Y			-->		Pan benind tool
+		W				-->		Rotation Tool
+		Y				-->		Pan benind tool
 			Move anchor point
-		Q			-->		Rectangle Tool / Shape Tool / Mask Tool
+		Q				-->		Rectangle Tool / Shape Tool / Mask Tool
 			Masking requires you select the layer you want to mask.
 			If you want to create a shape; then press F2 to deselect everything.
 			Creating perfect square or circle:
 				Press Shift key.
-		G			-->		Pen Tool / Mask Tool
-		CTRL + T			-->		Text tool / Type Tool
+		G				-->		Pen Tool / Mask Tool
+		CTRL + T		-->		Text tool / Type Tool
 	Align Tool
 		To Composition
 		To Selection
