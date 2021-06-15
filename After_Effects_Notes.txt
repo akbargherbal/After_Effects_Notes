@@ -13,9 +13,9 @@
 			Whatever on tops will show.
 	Important Shortcuts - Hotkeys
 		V			-->		Standard Selection Tool
-		Spacebar	-->		Pan
+		Spacebar			-->		Pan
 			Click Middle Mouse Wheel
-		Mouse Wheel	-->		Zoom in & out
+		Mouse Wheel		-->		Zoom in & out
 		W			-->		Rotation Tool
 		Y			-->		Pan benind tool
 			Move anchor point
@@ -25,7 +25,7 @@
 			Creating perfect square or circle:
 				Press Shift key.
 		G			-->		Pen Tool / Mask Tool
-		CTRL + T	-->		Text tool / Type Tool
+		CTRL + T			-->		Text tool / Type Tool
 	Align Tool
 		To Composition
 		To Selection
