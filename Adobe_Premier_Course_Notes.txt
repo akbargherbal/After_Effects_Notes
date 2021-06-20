@@ -1,5 +1,95 @@
-1. Let's get started
+SHORTCUTS:
+	CTRL + I				Import Media
+	-->						Next Frame (Right Arrow)
+	<--						Previous Frame (Left Arrow)
+	Q						Remove everything to the left of the cursor and shift left.
+	W						Remove everything to the right of the cursor and shift right.
+	I						In point (Source Window) - Beginning of a clip
+	O						Out point (Source Window) - End of a clip
+	DOWN ARROW				End of a clip
+	UP ARROW				Beginning of a clip
+	COMMA,					Insert source clip at the end of a clip in the timeline.
+	PERIOD.					Overwrite clip in the timeline from source clip.
+	\						Zoom to fit your sequence in the timeline.
+	Ctrl + Shift + Space 	Play selection
+	T						Text tool (Type)
+	P						Pen Tool (Including other shapes / paths) like 
+							rectangle etc.
+	Shift + D				Apply default transition to selected clips.
+	Ctrl + M				Export Media - Render
+
+Tips:
+	Mute audio while scrubbing:
+		Edit Menu --> Preferences --> Audio --> Play Audio while scrubbing
+		
+	Double-click a clip to preview it and edit in source window.
+	
+	Enable snap in the timeline window
+	
+	Apply default transition at the beginning of a sequence. Nice effect.
+	
+	
+	
+	
 2. Your First Project Easy Video Editing in Premiere Pro CC
+	Drag & Drop media from project imports into the timeline.
+	
+	Extend a clip to show hidden shots due to cutting.
+	Go to the end of the clip.
+		When the <--] appears, click and drag to extend.
+		
+	CTRL + Click a clip and drag to replace another clip (without overwriting the other) ... One gets the place of the other .. both stay in the sequence.
+	
+	Audio Track Mixer (Check from Widow menu)
+	
+	Scale Image to frame size.
+		Make an imported image in video the same size as the video.
+			Right Click the image in the timeline; choose scale to frame size.
+			
+	Text Tool:
+		Shortcut:	T
+		Effects Control:
+			Shift + F5
+			or go the window menu.
+			
+	TRANSITIONS
+		Apply transitions between clips (cuts)
+			Hover over between the clips you want to transition.
+				When the mouse cursor becomes <--]
+					Choose: Apply default transitions.
+			You can select two adjacent clips and press Shif + D to apply default transition.
+				If you want to apply transition to video only without audio:
+					press Ctrl + D
+		
+		You can resize transition; make it faster or slower!
+		
+		Set default transition:
+			Press Shift + F7 or go to the effect panel:
+				Video Transition
+					Right Click
+		
+		SLICE Transitions
+			for simple animation of some objects like lower-third.
+			
+	Export Media:
+		Ctrl + M 
+		File --> Export --> Media
+		
+			The best format is H264
+			Preset: YouTube 720
+			Output Name 
+			Export
+			
+	Restore Broken Link (Locate offline files)
+		Renamed folders are considered broken links.
+		
+		
+		
+	
+	
+	
+	
+	
 3. Downloading Your Complete Media for Your Project
 4. Previewing, Importing and Organizing your Media
 5. Adding, Inserting and Arranging Clips in a Sequence Tools & Techniques
