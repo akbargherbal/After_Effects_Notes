@@ -17,7 +17,9 @@ SHORTCUTS:
 							rectangle etc.
 	Shift + D				Apply default transition to selected clips.
 	Ctrl + M				Export Media - Render
-
+	Shift + F8				Media Browser
+	ACCENT`					Maximize an open panel.
+	
 Tips:
 	Mute audio while scrubbing:
 		Edit Menu --> Preferences --> Audio --> Play Audio while scrubbing
@@ -83,15 +85,23 @@ Tips:
 	Restore Broken Link (Locate offline files)
 		Renamed folders are considered broken links.
 		
-		
-		
-	
-	
-	
-	
-	
+
 3. Downloading Your Complete Media for Your Project
 4. Previewing, Importing and Organizing your Media
+	Media Browser:
+		In large projects it is inadvisable to import large folders.
+			Use Media Browser instead.
+				Shift + F8
+				
+	Organizing Media
+		Color code bins, stills, videos and audios.
+		Set Poster Frame [Choose a thumbnail of a clip in Media Browser]
+		Hover Scrub
+		Create Bins in Media Browser
+		Searching within the Media Browser
+		Moving bins in Media Browser is NOT moving them in windows... it's only moving them for the projects.
+		
+				
 5. Adding, Inserting and Arranging Clips in a Sequence Tools & Techniques
 6. Editing Techniques & Editing Tools
 7. Manipulating Clip Speed
@@ -101,8 +111,14 @@ Tips:
 11. The Color Correction Process and Workflow
 12. Color Grading
 13. Essential Motion Effects
-13.1 Xtras Assignement - Jump Start.zip
 14. Post-Production Training - Start Creating Your Demo-Reel Now
 15. Chromakeying in Premiere Pro CC
 16. Conclusion - Your next Specialized Video Editing Techniques
 17. Bonus Section Expand your Video Editing Skills
+
+
+
+Glossary:
+	Sequence
+	Hover Scrub
+	B-Rolls
