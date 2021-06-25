@@ -19,6 +19,18 @@ SHORTCUTS:
 	Ctrl + M				Export Media - Render
 	Shift + F8				Media Browser
 	ACCENT`					Maximize an open panel.
+	M						Add Marker on a clip
+	Shift + M				Go to the next marker on a clip.
+	J						Scrubbing Backward - The more you press, 
+							the faster the 	scrubbing speed becomes.
+	L						Scrubbing Forward - The more you press, 
+							the faster the 	scrubbing speed becomes.
+	K						Slow Scrubbing Speed if used with either J or L.
+	Ctrl + U				Make Sub-Clip
+	A						Select clip and clips forward.
+	Shift + A				Select clips and clips forward on single track.
+	Alt						Select on a single track.
+	
 	
 Tips:
 	Mute audio while scrubbing:
@@ -30,7 +42,14 @@ Tips:
 	
 	Apply default transition at the beginning of a sequence. Nice effect.
 	
+	JKL IO
 	
+	Rough Cuts:
+		Sometimes it's better to do it on the audioform, to get the sub-clip you want!
+		
+	Target Selection:
+		When you want to select either audio or video on a single clip:
+			Alt key is your friend.
 	
 	
 2. Your First Project Easy Video Editing in Premiere Pro CC
@@ -103,6 +122,50 @@ Tips:
 		
 				
 5. Adding, Inserting and Arranging Clips in a Sequence Tools & Techniques
+	JKL - IO
+		Scrubbing
+	
+	Ctrl + Shift + Space 	
+		Play selection
+		
+	Sub-Clipping:
+		Application:
+			Rough Cuts.
+		Select the clip in source monitor first.
+			Clip Menu	>>>		Make Subclip
+			or 
+			CTRL + U
+				Uncheck checkbox [Restrict Times to Clip Boundaries].
+					Restricted means you cannot extend the clip.
+						However, you can go Clip >> Edit Sub-Clip
+						
+	Insert Clips:
+		Use Top & Down Arrows to position your cursor at the end of a clip.
+		Press COMMA(,)  or Insert in the source monitor.
+	
+	Moving clips around:
+		Press Ctrl while dragging a clip to insert instead of overwriting!
+	
+	Track Selection:
+		Overwrite PERIOD(.) works shines very well in this case.
+		Press A and click to select clip and clips forward.
+		Press Shift + A	and click to select clips and clips forward on single track.
+		
+	Synchronize clips using audio wavefrom:
+		Use this technique when you have a close-up and a wide shot of someone speaking
+		Select the two clips.
+			Right Click and choose Synchronize clips
+				Choose the Audio radio button.
+				
+	Target Selection:
+		When you want to select either audio or video on a single clip:
+			Alt key is your friend.
+	
+	
+	
+				
+			 
+	
 6. Editing Techniques & Editing Tools
 7. Manipulating Clip Speed
 8. Essential Audio Editing
@@ -121,4 +184,4 @@ Tips:
 Glossary:
 	Sequence
 	Hover Scrub
-	B-Rolls
+	B-Roll
