@@ -1,7 +1,8 @@
+[Check Time Saving Tips @ the Bottom!]
 1. Introduction
 2. After Effects Basics
 	Import Media
-		Right-Click --> Import
+		Right-Click --> Import (Just double click in the project area)
 		Drag & Drop
 	Folder Organization
 		Composition
@@ -18,7 +19,9 @@
 		Mouse Wheel		-->		Zoom in & out
 		W				-->		Rotation Tool
 		Y				-->		Pan benind tool
-			Move anchor point
+			Change the anchor point of an object.
+			Double click the pan-behind tool to center anchor point in the object.
+			
 		Q				-->		Rectangle Tool / Shape Tool / Mask Tool
 			Masking requires you select the layer you want to mask.
 			If you want to create a shape; then press F2 to deselect everything.
@@ -39,6 +42,15 @@
 		R				-->		Rotation
 		S				-->		Scale
 		O				-->		Opacity
+		F9				-->		Easy Ease
+		F2				-->		Deselect All
+		Ctrl + K 		-->		Composition Settings
+		Ctrl + Shift + C  		Precompose Layers
+		' (APOSTROPH)	-->		Show Safe Frame
+		F2				-->		Deselect All
+		Ctrl + Home		-->		Center Selection to Composition
+		Pg Down			-->		Move cursor 1 frame
+		Shift + Pg Down	-->		Move cursor 10 frame
 		
 	Align Tool
 		To Composition
@@ -63,12 +75,48 @@
 				Rotation	-->		R
 				Scale		-->		S
 				Opacity		-->		T
-		
-		
-		
-		
-		
 	
+	Keyframes
+		Click stop watch to animate a property; such as rotation, opacity, position etc.
+			Only one frame is needed, and the rest get created automatically.
+		
+		Keyframes can be copied, moved and deleted, multiple or single.
+	
+	Making Animation Better:
+		Motion Blur
+			Enable motion blur (twice)
+		
+		Ramping Up and Down:
+			Easy Ease F9
+			or:
+				Right Click the keyframe; and chose Keyframe Assistant; then Easy Ease
+				Or you can input the velocity using right-click (Keyframe Velocity) - Default value is 33.333
+				Choose higher values like 75.
+				
+			
+			Notice how the  keyframe changes its symboel from dimond to I.
+		
+		Graph Editor:
+			First select the keyframes you want to edit in the graph editor.
+				Make sure you're editing the speed [Right-Click	>>>	Edit Speed Graph].
+		
+		Animation Principles:	12 Principles:
+			Squash & Squeeze
+		
+		
+		
+
+			
+		Tips & Tricks:
+			This course on transitions contains lots of tips and tricks and shortcuts.
+				[ FreeCourseWeb.com ] Udemy - Video Transitions in After Effects. After Effects Template
+			Squeezing keyframes together:
+				Use Alt Key
+				
+			Transfor applies to layers and compositions equally!
+			
+			
+		
 		
 3. Animating with Keyframes
 4. Shapes and Solid Layers
@@ -97,3 +145,35 @@
 27. Bonus Section Kinetic Typography
 28. Course Bonuses
 
+Time Saving Techniques, Tips and Tricks:
+	Smart Selection:
+		Hover over the object you want to select
+			Right-Click	>>>	Select	>>>	[Choose layer!]
+			
+	Factory Settings:
+		Double-Click 	>>> Default.
+	
+	Space Real Estate!
+		Telda (`) to maximize whatever panel you're in.
+	
+	Alt + Mouse Wheel:
+		Zoom to where the mouse pointer (All Adobe Apps).
+	
+	Reveal
+	
+	Finished video till @23:00
+	https://youtu.be/D2mTCZ4zGpQ?t=1427
+	
+	Sequence Layers and Composition using keyframe assistance
+		Select the layers in the order you want them to appear.
+		Right-Click	-->	Keyframe Assistant
+		
+	Elastic Scaling of keyframes
+		Alt + click (drag right or left).
+
+Resources:
+	Videohive
+	Pond5
+	informationisbeautiful.net
+	artofthetitle.com
+	
