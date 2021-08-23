@@ -2,8 +2,14 @@
 Questions:
 	Reverse Engineering
 		Script?
+			More like JavaScript (ExtendScript is limited and specific)
+			redefinery (offline - check waybackmachine internet archive)!
+				rd_scripts_20170108
 			Github
 				Search code keywords; like BridgeTalk app.project etc.
+			YouTube
+				CC Transcript
+			https://youtu.be/x90MacNDMu0
 				
 	Record actions using extendscript.
 		https://www.youtube.com/watch?v=orBiUCo5WGw
@@ -13,7 +19,16 @@ Scripts:
 	Animation Composer
 	DUIK:
 		COPY KEYFRAMES within Layers
-
+	
+	Scripting:
+		Resources:
+			After Effects Scripting Guide
+			Javascript Tools Guide
+			ScriptUI for Dummies (this is for InDesign - but applicable to After Effects too)
+			Redefinery ... all scripts!
+				rd_GimmeProPath
+					Learn scripting using a script.
+			https://youtu.be/x90MacNDMu0
 1. Introduction
 2. After Effects Basics
 	Import Media
@@ -200,7 +215,9 @@ Resources:
 	
 What I don't like about After Effects:
 	1)	Difficulty in selecting overlapping layers!
+			locking; isolating and hiding! So primitive!
 	2)	Snapping to vertices; not ideal for daraying the simplest shape!
+			Script?
 	3)	Libraries
 	4)	
 	5)	
