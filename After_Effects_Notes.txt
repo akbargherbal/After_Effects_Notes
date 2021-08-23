@@ -1,4 +1,19 @@
 [Check Time Saving Tips @ the Bottom!]
+Questions:
+	Reverse Engineering
+		Script?
+			Github
+				Search code keywords; like BridgeTalk app.project etc.
+				
+	Record actions using extendscript.
+		https://www.youtube.com/watch?v=orBiUCo5WGw
+	Complexity of a scene (project).
+		Stats; number of keyframes; layers.
+Scripts:
+	Animation Composer
+	DUIK:
+		COPY KEYFRAMES within Layers
+
 1. Introduction
 2. After Effects Basics
 	Import Media
@@ -170,6 +185,12 @@ Time Saving Techniques, Tips and Tricks:
 		
 	Elastic Scaling of keyframes
 		Alt + click (drag right or left).
+	
+	Swap footage / layers:
+		Cntrl + Alt + / (back slash) 
+			Respecting anchor point position
+		
+		Alt + Click the layer in the timeline (including where keyframes / cursor are)
 
 Resources:
 	Videohive
@@ -177,3 +198,17 @@ Resources:
 	informationisbeautiful.net
 	artofthetitle.com
 	
+What I don't like about After Effects:
+	1)	Difficulty in selecting overlapping layers!
+	2)	Snapping to vertices; not ideal for daraying the simplest shape!
+	3)	Libraries
+	4)	
+	5)	
+	6)	
+	7)	
+	8)	
+	9)	
+	10)	
+	11)	
+	12)	
+	13)	
